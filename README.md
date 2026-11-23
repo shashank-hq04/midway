@@ -12,7 +12,7 @@ This repository hosts the official landing website for **MIDWAY**, introducing t
 Midway is an offline-first personal AI companion engineered for Windows 11. It bridges human natural language (Hindi, English, and Hinglish) with deep desktop automation, hardware endpoints, browser orchestration, and local offline intelligence.
 
 Visit the live website: **[https://midway-official.vercel.app](https://midway-official.vercel.app)**  
-Midway Application Repository: **[https://github.com/ShashankShekhar-Moon/MIDWAY](https://github.com/ShashankShekhar-Moon/MIDWAY)**
+Midway Application Repository: **[https://github.com/shashank-hq04/MIDWAY](https://github.com/shashank-hq04/MIDWAY)**
 
 ---
 
